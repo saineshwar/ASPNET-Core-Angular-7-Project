@@ -43,6 +43,16 @@ Link to download SQL Server Express: - https://www.microsoft.com/en-in/download/
 1. @angular/material
 2. @ngx-bootstrap/datepicker
 
+###  Credential <br>
+
+### =========== User =========== <br>
+Username :- user<br>
+Password :- 123456<br>
+
+### =========== Admin =========== <br>
+Username :- admin<br>
+Password :- 123456<br>
+
 ### Complete Project Structure
 
 <img src="https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/1.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
