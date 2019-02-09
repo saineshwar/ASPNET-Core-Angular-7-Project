@@ -2,6 +2,8 @@
 
 <img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
+## If you are new to Angular Must Watch Video How to Learn Angular in 1 hour
+[![Learn Angular](https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/hqdefault.jpg)](https://www.youtube.com/watch?v=FV2MXOygDTM "Learn Angular")
 ## Getting Started
 
 This project contains good features which are required in all project which are developed in industries nowadays.
