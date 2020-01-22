@@ -1,11 +1,13 @@
-# ASPNET-Core-Angular-7-Project
-
-<img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
-
 ## Info 
 Pay :- ₹ 100 For India Users https://imjo.in/QDdBze for getting database scripts.
 
 Pay :- $ 3.00 here https://payhip.com/b/vJ1L for getting database scripts.
+
+
+# ASPNET-Core-Angular-7-Project
+
+<img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+
 
 ## If you are new to Angular Must Watch Video How to Learn Angular in 1 hour
 [![Learn Angular](https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/hqdefault.jpg)](https://www.youtube.com/watch?v=FV2MXOygDTM "Learn Angular")
